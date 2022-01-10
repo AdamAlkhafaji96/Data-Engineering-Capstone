@@ -53,6 +53,8 @@ Using Spark, the data will then be cleaned and transformed into a data model con
   5. Data types will be cast to the desired types based on the data model.
 
 # Step 3: Define the Data Model
+![image](https://user-images.githubusercontent.com/76083769/148719671-bc26487b-04ba-458c-b9c8-66749041a386.png)
+
 Steps necessary to pipeline the data into the chosen data model:
     1. Read the data from source files into Spark Dataframes
     2. Performing data cleaning steps to handle unwanted data
